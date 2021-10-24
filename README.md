@@ -2,9 +2,10 @@
 ## Student at Codeup, Quasar Cohort
 
 - 👋 Hi, I’m Mary, @maryawhite :running_woman:
-- 👀 I’m interested in learning to code, full stack web development.
-- :four_leaf_clover: I’m currently learning javascript, html, css.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in problem solving, learning new programming languages, full stack web development.
+- :sunglasses: I'm good at being proactive and anticipating problems and opportunities in advance. 
+- :four_leaf_clover: I’m currently learning **java, javascript, html, css**.
+- 💞️ I’m looking to collaborate on front end or back end projects.
 - 📫 How to reach me mary.a.white28@gmail.com
 
 <!---
