@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mary :running_woman:</h1>
 <h3 align="center">full stack software developer</h3>
-- 👀 I’m interested in problem solving, learning new programming languages, full stack web development.
-- :sunglasses: I'm good at being proactive and anticipating problems and opportunities in advance. 
-- :four_leaf_clover: I’m currently learning **java, javascript, html, css**.
-- 💞️ I’m looking to collaborate on front end or back end projects.
-- 📫 How to reach me **mary.a.white28@gmail.com**
+<ul>
+  <li>👀 I’m interested in problem solving, learning new programming languages, full stack web development.</li>
+  <li>:sunglasses: A passion for problem-solving and using technology to automate repetitive tasks.</li>
+  <li>:four_leaf_clover: I’m currently learning <strong>Java, servlets, JSP, JSTL</strong>.</li>
+  <li>💞️ I’m looking to collaborate on front end or back end projects.</li>
+  <li>📫 How to reach me <strong>mary.a.white28@gmail.com</strong></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
