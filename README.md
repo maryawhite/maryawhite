@@ -3,8 +3,8 @@
 <ul>
   <li>👀 I’m interested in problem solving, learning new programming languages, full stack web development.</li>
   <li>:sunglasses: A passion for problem-solving and using technology to automate repetitive tasks.</li>
-  <li>:four_leaf_clover: I’m currently learning <strong>Java,</strong> Spring Boot, Thymeleaf, HTML, CSS, Bootstrap, JavaScript.</li>
-  <li>💞️ I’m looking to collaborate on front end or back end projects.</li>
+  <li>:four_leaf_clover: Skill set:<strong>Java,</strong> Spring Boot, Thymeleaf, Bootstrap, CSS, HTML, JavaScript, JQuery, MySQL.</li>
+  <li>💞️ In my free time I like to run.</li>
   <li>📫 How to reach me <strong>mary.a.white28@gmail.com</strong>.</li> <ul><li>The upside of having a common name is I get to use dots and numbers in my email, mary dot <strong>a</strong> dot white 28</li></ul>
 </ul>
 
