@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mary :running_woman:</h1>
 <h3 align="center">full stack software developer</h3>
 <ul>
-  <li>👀 I’m interested in problem solving, learning new programming languages, full stack web development.</li>
+  <li>👀 I’m interested in problem solving, becoming a better java developer, and full stack web development.</li>
   <li>:sunglasses: A passion for problem-solving and using technology to automate repetitive tasks.</li>
-  <li>:four_leaf_clover: Skill set:<strong>Java,</strong> Spring Boot, Thymeleaf, Bootstrap, CSS, HTML, JavaScript, JQuery, MySQL.</li>
+  <li>:four_leaf_clover: Skill set: Java, Spring Boot, Thymeleaf, Bootstrap, CSS, HTML, JavaScript, JQuery, MySQL.</li>
   <li>💞️ In my free time I like to run.</li>
   <li>📫 How to reach me <strong>mary.a.white28@gmail.com</strong>.</li> <ul><li>The upside of having a common name is I get to use dots and numbers in my email, mary dot <strong>a</strong> dot white 28</li></ul>
 </ul>
