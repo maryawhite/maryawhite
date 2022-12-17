@@ -5,7 +5,7 @@
   <li>:sunglasses: A passion for problem-solving and using technology to automate repetitive tasks.</li>
   <li>:four_leaf_clover: Skill set: Java, Spring Boot, Thymeleaf, Bootstrap, CSS, HTML, JavaScript, JQuery, MySQL.</li>
   <li>💞️ In my free time I like to run.</li>
-  <li>📫 How to reach me <strong>mary.a.white28@gmail.com</strong>.</li> <ul><li>The upside of having a common name is I get to use dots and numbers in my email, mary dot <strong>a</strong> dot white 28</li></ul>
+  <li>📫 How to reach me <strong>mary.chind@gmail.com</strong>.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
